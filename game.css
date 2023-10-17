@@ -1,0 +1,50 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  background-color: rgba(0, 0, 0, 0.877);
+  padding-top: 30px;
+  padding-left: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.moves-button {
+  border: none;
+  background-color: rgba(96, 94, 91, 0.952);
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  margin-bottom: 20px;
+}
+img {
+  width: 100px;
+}
+.js-result {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.js-move {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+.js-match-score {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.reset-button {
+  background-color: red;
+  border: none;
+  width: 150px;
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+}
